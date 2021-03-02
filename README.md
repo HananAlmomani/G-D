@@ -6,6 +6,7 @@
 
 **Saying that you ~~cant develop yourself is wrong.~~**
 
+**to give you an example**
 ***For me i do that by:***
 1. Being positive.
 2. searching for self development.
