@@ -9,3 +9,5 @@
 2. **Main** we can write it as:< main > < /main >
 3. **footer** we can write it as:< footer> < /footer >
 
+#### the < header > element used to contain the sitename and the main navigation.The < footer > element contains copyright information, alongwith links to the privacy policy and terms and conditions .Each individual < article> and < section > element can alsohave its own < header > and< footer > elements to hold the header or footer information for that section within the page.
+#### The < nav > element is used to contain the major navigational blocks on the site such as theprimary site navigation.
