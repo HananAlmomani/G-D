@@ -5,7 +5,7 @@
 
 *Wire frame* consisits of :
 
-1.**Header** we can write it as:< header > < /header >
-2.**Main** we can write it as:< main > < /main >
-3.**footer** we can write it as:< footer> < /footer >
+1. **Header** we can write it as:< header > < /header >
+2. **Main** we can write it as:< main > < /main >
+3. **footer** we can write it as:< footer> < /footer >
 
