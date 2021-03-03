@@ -9,5 +9,11 @@
 2. **Main** we can write it as:< main > < /main >
 3. **footer** we can write it as:< footer> < /footer >
 
-#### the < header > element used to contain the sitename and the main navigation.The < footer > element contains copyright information, alongwith links to the privacy policy and terms and conditions .Each individual < article> and < section > element can alsohave its own < header > and< footer > elements to hold the header or footer information for that section within the page.
+#### The < header > element used to contain the sitename and the main navigation.The < footer > element contains copyright information, alongwith links to the privacy policy and terms and conditions .Each individual < article> and < section > element can alsohave its own < header > and< footer > elements to hold the header or footer information for that section within the page.
 #### The < nav > element is used to contain the major navigational blocks on the site such as theprimary site navigation.
+#### The < section > element groupsrelated content together, and typically each section wouldhave its own heading.
+#### The < article > element acts as a container for any section of a page that could stand alone and potentially be syndicated.
+#### The < aside > element has two purposes, depending on whether it is inside an < article > element or not.
+#### The < section > element groups related content together, and typically each section would have its own heading.
+#### The purpose of the < hgroup > element is to group together a set of one or more < h1 > through < h6 > elements so that they are treated as one single heading.
+#### The < figure > it can be used to contain any content that is referenced from the main flow ofan article (not just images). 
