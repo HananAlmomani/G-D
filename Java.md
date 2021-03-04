@@ -3,6 +3,7 @@
 1. **Acsses content**: you can use java script to select any element , attribute or text from HTML page.
 2. **Modify content**: you can use java script to add elements , attributes and text to the page or remove them.
 
+![js](https://miro.medium.com/max/12000/1*1gByVzAtW0myl9e9CsGqhw.jpeg)
 ## What is script?
 ### A series of insrtuctions that a computer can follow to achieve a goal and to write it you need first to state your goal and list the task that you need to be done in order to achieve it.
 **Rules for naming variables** :
