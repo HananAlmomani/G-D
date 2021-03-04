@@ -15,6 +15,6 @@
 
 ## How computers work ?
 ### When u press a key on your keyboard it converts the letter to binary and that number is sent to cpu and calculates how to display the letter pixel by pixel , **finally** its sent to the screen as an output device.
-![cpu](https://store.hp.com/app/assets/images/uploads/prod/how-to-overclock-pc-cpu-hero1534383854365.jpg?impolicy=prdimg&imdensity=1&imwidth=600)
+![cpu](https://www.cio.co.ke/wp-content/uploads/2018/09/cpu-images-min.jpg)
 
 ### Watch these videos to learn more **[How computer works](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)**
