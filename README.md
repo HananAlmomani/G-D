@@ -5,7 +5,7 @@
 
 ## **My code 102 reading notes**:
 | Subject           | Links                                                                               |
- -----------------  |-------------------------------------------------------------------------------------
+|-----------------  |-------------------------------------------------------------------------------------|
 | class 1           |[Growth mindset](https://hananalmomani.github.io/Growth-mindset/)                    |
 | class 2           |[Make up](https://hananalmomani.github.io/MakeUp/)                                   | 
 | class 3           |[Mark Down](https://hananalmomani.github.io/MarkDown/)                               | 
@@ -16,7 +16,7 @@
 
 ## **My code 201 reading notes**:
 | Subject        | Links                                                                                |
- ----------------|--------------------------------------------------------------------------------------
+|----------------|--------------------------------------------------------------------------------------|
 | class 1        |[link]()                                                                              |
 | class 2        |[link]()                                                                              |
 | class 3        |[link]()                                                                              |
