@@ -4,6 +4,7 @@
 
 
 ## **My code 102 reading notes**:
+
 | Subject           |  Links                                                                               |
 |-----------------  |--------------------------------------------------------------------------------------|
 | class 1           | [Growth mindset](https://hananalmomani.github.io/Growth-mindset/)                    |
@@ -15,6 +16,7 @@
 
 
 ## **My code 201 reading notes**:
+
 | Subject        |  Links                                                                                |
 |----------------|---------------------------------------------------------------------------------------|
 | class 1        | [link]()                                                                              |
