@@ -4,10 +4,10 @@
 
 
 ## **My code 102 reading notes**:
-| Subject         | Links                                                                               |
- -----------------|-------------------------------------------------------------------------------------
-| class 1          |[Growth mindset](https://hananalmomani.github.io/Growth-mindset/)                  |       
-| class 2          |[Make up](https://hananalmomani.github.io/MakeUp/)                                   |     
+| Subject           | Links                                                                               |
+ -----------------  |-------------------------------------------------------------------------------------
+| class 1           |[Growth mindset](https://hananalmomani.github.io/Growth-mindset/)                    |
+| class 2           |[Make up](https://hananalmomani.github.io/MakeUp/)                                   | 
 | class 3           |[Mark Down](https://hananalmomani.github.io/MarkDown/)                               | 
 | class 4           |[ Computer Architecture and Logic](https://hananalmomani.github.io/Reading-Notes/cal)|
 | class 5           |[Javascript](https://hananalmomani.github.io/Reading-Notes/Java)                     |
