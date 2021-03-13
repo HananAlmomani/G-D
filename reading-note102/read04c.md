@@ -10,3 +10,5 @@
 **Javascript**:*This is where we can change how the page behaves, adding interactivity. We will aim to keep as much of our JavaScript as possible in separate files.*  
 **STATEMENTS ARE INSTRUCTIONS AND EACH ONE STARTS ON A NEW LINE**:*A statement is an individual instruction that the computer should follow. Each one should start on a new line and end with a semicolon. This makes your code easier to read and follow,The semicolon also tells the JavaScript interpreter when a step is over indicating that it should move to the next step.* 
 **WHAT IS A VARIABLE?**: *A script will have to temporarilystore the bits of information itneeds to do its job. It can store thisdata in variables*
+(link)
+[https://hananalmomani.github.io/Java-script/demo2.html]
