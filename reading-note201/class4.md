@@ -1,6 +1,6 @@
 # Html:
 ## Links
-### Links are created using the < a > element. Users can click on anything between the opening <a> tag and the closing < /a > tag. You specify which page you want to link to using the href attribute
+### Links are created using the < a > element. Users can click on anything between the opening < a > tag and the closing < /a > tag. You specify which page you want to link to using the href attribute
 
 ## Linking to Other Sites
 ### HTML Links are created using the < a > element which has an attribute called href . The value of the href attribute is the page that you want people to go to when they click on the link. Users can click on anything that appears between the opening < a > tag and the closing < /a > tag and will be taken to the page specified in the href attribute.
