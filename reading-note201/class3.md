@@ -6,7 +6,7 @@
 
 ### <ol> The ordered list is created with the <ol> element. <li> Each item in the list is placed between an opening <li> tag and a closing </li> tag. (The li stands for list item.)
 
-![ordered]{https://1.bp.blogspot.com/-rpOY4wFXI2U/XMM1vrUNRBI/AAAAAAAAC0c/kqPiH0lOJ_g6FfxvGu0GJ5mUic90wBOJQCLcBGAs/s640/Ordered-List-using-html.png}
+![ordered](https://1.bp.blogspot.com/-rpOY4wFXI2U/XMM1vrUNRBI/AAAAAAAAC0c/kqPiH0lOJ_g6FfxvGu0GJ5mUic90wBOJQCLcBGAs/s640/Ordered-List-using-html.png)
 
 ## Unordered Lists :
 
